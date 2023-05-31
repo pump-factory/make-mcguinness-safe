@@ -109,7 +109,7 @@ footer .cta {
 /* Mobile */
 @media screen and (max-width: 500px) {
 	h1 {
-		font-size: 3.4rem;
+		font-size: 3.2rem;
 		text-shadow: 5px 5px 0px #ffffff;
 		line-height: 1.5;
 	}
