@@ -97,11 +97,19 @@ footer .cta {
 	text-decoration: underline;
 }
 
+/* Tablet */
+@media (max-width: 985px) and (min-width: 500px) {
+	h1 {
+		font-size: 6rem;
+		text-shadow: 5px 5px 0px #ffffff;
+		line-height: 1.5;
+	}
+}
 
 /* Mobile */
 @media screen and (max-width: 500px) {
 	h1 {
-		font-size: 3.2rem;
+		font-size: 3.4rem;
 		text-shadow: 5px 5px 0px #ffffff;
 		line-height: 1.5;
 	}
